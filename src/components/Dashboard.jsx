@@ -475,61 +475,44 @@ export function Dashboard() {
             <div className="roadmap">
               <div className="row">
                 <div className="icon complete">
-                  <FontAwesomeIcon icon={faCheck} />
-                </div>
-                <div className="text">Presale live on DXSales <span>Completed</span></div>
-              </div>
-              <div className="row">
-                <div className="icon complete">
-                  <FontAwesomeIcon icon={faCheck} />
-                </div>
-                <div className="text">Presale sold out <span>Completed</span></div>
-              </div>
-              <div className="row">
-                <div className="icon complete">
-                  <FontAwesomeIcon icon={faCheck} />
-                </div>
-                <div className="text">Listing on PANCAKESWAP <span>Completed</span></div>
-              </div>
-              <div className="row">
-                <div className="icon complete">
-                  <FontAwesomeIcon icon={faCheck} />
-                </div>
-                <div className="text">Marketing on Poocoin <span>Live now</span></div>
-              </div>
-              <div className="row">
-                <div className="icon complete">
-                  <FontAwesomeIcon icon={faCheck} />
-                </div>
-                <div className="text">Reach 1000 holders <span>Completed</span></div>
-              </div>
-              <div className="row">
-                <div className="icon complete">
-                  <FontAwesomeIcon icon={faCheck} />
-                </div>
-                <div className="text">Audit Astrokitties Smart Contract <span>Completed</span></div>
-              </div>
-              <div className="row">
-                <div className="icon complete">
-                  <FontAwesomeIcon icon={faCheck} />
-                </div>
-                <div className="text">Reach 3000 holders <span>Completed</span></div>
-              </div>
-              <div className="row">
-                <div className="icon pending">
                   <FontAwesomeIcon icon={faHourglass} />
                 </div>
-                <div className="text">Launch holder contest ($1000) <span className="orange">Contest live</span></div>
+                <div className="text">Presale live on DXSales <span className="orange">On progress</span></div>
               </div>
               <div className="row">
-                <div className="icon pending">
-                  <FontAwesomeIcon icon={faHourglass} />
+                <div className="icon notComplete">
                 </div>
-                <div className="text">Litepaper released <span className="orange">In progress</span></div>
+                <div className="text">Presale sold out </div>
               </div>
               <div className="row">
-                <div className="icon notComplete" />
-                <div className="text">Whitebit listing</div>
+                <div className="icon notComplete">
+                </div>
+                <div className="text">Listing on PANCAKESWAP </div>
+              </div>
+              <div className="row">
+                <div className="icon notComplete">
+                </div>
+                <div className="text">Marketing on Poocoin </div>
+              </div>
+              <div className="row">
+                <div className="icon notComplete">
+                </div>
+                <div className="text">Reach 1000 holders </div>
+              </div>
+              <div className="row">
+                <div className="icon notComplete">
+                </div>
+                <div className="text">Audit Astrokitties Smart Contract </div>
+              </div>
+              <div className="row">
+                <div className="icon notComplete">
+                </div>
+                <div className="text">Reach 3000 holders </div>
+              </div>
+              <div className="row">
+                <div className="icon notComplete">
+                </div>
+                <div className="text">Launch holder contest ($1000) </div>
               </div>
               <div className="row">
                 <div className="icon notComplete" />
@@ -541,7 +524,7 @@ export function Dashboard() {
               </div>
               <div className="row">
                 <div className="icon notComplete" />
-                <div className="text">Whitepaper released</div>
+                <div className="text">Listing on Exchange</div>
               </div>
               <div className="row">
                 <div className="icon notComplete" />
@@ -549,7 +532,7 @@ export function Dashboard() {
               </div>
               <div className="row">
                 <div className="icon notComplete" />
-                <div className="text">Listing on Exchange</div>
+                <div className="text">Listing on major Exchange</div>
               </div>
             </div>
           </StyledRoadMap>
