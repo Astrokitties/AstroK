@@ -388,7 +388,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Burned</div>
-                  279,906,681,879,081
+                  N/A
               </div>
             </div>
             <div className="badge">
@@ -399,7 +399,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Marketcap</div>
-                $7,132,960
+                N/A
               </div>
             </div>
             <div className="badge">
@@ -410,7 +410,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Holders</div>
-                4,343
+                N/A
               </div>
             </div>
           </div>
