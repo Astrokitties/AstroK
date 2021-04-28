@@ -450,19 +450,17 @@ export function Dashboard() {
               <div className="items">
                 <h3>
                   Audit by solidity.finance
-                  <small>100% Passed</small>
+                  <small>Coming soon</small>
                 </h3>
                 <p>
                   <i>
-                    "Astrokitties is a new competitor in the meme-coin space that has gained a large community following in a short timeframe.
-                    <br/><br/>
-                    No security issues were identified in our analysis."
+                    "The audit will be started once ownership is renounced after the pre-sale!"
                   </i>
-                  <span className="bolder">- solidity.finance</span>
+                  <span className="bolder">- Soon™ </span>
                 </p>
-                <a href="#">
+                <a href="https://solidity.finance/">
                   <StyledButton>
-                    Read full analysis
+                    Read more about them
                   </StyledButton>
                 </a>
               </div>
