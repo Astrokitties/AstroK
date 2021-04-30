@@ -430,22 +430,22 @@ export function Dashboard() {
               <div className="items two">
                 <img src={coin} alt=""/>
                 <h3>RFI Static Rewards</h3>
-                <p>2% of every transaction is taken and re distributed to all $SMRAT holders. The burn address is also a holder thus each transaction helps deflate the supply.</p>
+                <p>3% of every transaction is taken and re distributed to all $ASTK holders. The burn address is also a holder thus each transaction helps deflate the supply.</p>
               </div>
               <div className="items">
                 <img src={community} alt=""/>
                 <h3>Fair Launch & Community Built</h3>
-                <p>Community driven & fair launch. There is no pre-sale. Dev will add 80% of the token supply to LP on PancakeSwap and participate in the fair launch with everyone else.</p>
+                <p>Community driven & fair launch. There is no pre-sale. Dev will add 70% of the token supply to LP on PancakeSwap and participate in the fair launch with everyone else.</p>
               </div>
               <div className="items">
                 <img src={liquidityPool} alt=""/>
                 <h3>Automatic Liquidity Pool</h3>
-                <p>4% of every transaction contributes toward automatically generating further liquidity on Pancake Swap. Benefiting long term for Astrokitties holders the most!</p>
+                <p>3% of every transaction contributes toward automatically generating further liquidity on Pancake Swap. Benefiting long term for Astrokitties holders the most!</p>
               </div>
               <div className="items">
                 <img src={pumpDump} alt=""/>
                 <h3>Anti Pump-Dump-Exist Whales</h3>
-                <p>Transactions (sell/buy) that trade more than 0.01% of the total supply will be rejected. Whales who make a transfer (between 2 wallets) that is larger than 0.01% of the total supply will be charged for 2 BNB.</p>
+                <p>Whale cannot exist without redistribution to holders!</p>
               </div>
               <div className="items">
                 <h3>
