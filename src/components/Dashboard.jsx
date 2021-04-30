@@ -425,7 +425,7 @@ export function Dashboard() {
               <div className="items one">
                 <img src={locker} alt=""/>
                 <h3>Highly Secured</h3>
-                <p>All initial liquidity provided has been locked with UniCrypt. The contract owner has been renounced, leaving the contract trustless for the ASTROKITTIES community.</p>
+                <p>All initial liquidity provided has been locked during presale DXSale. The contract owner will be renounced at the end of the presale, leaving the contract trustless for the ASTROKITTIES community.</p>
               </div>
               <div className="items two">
                 <img src={coin} alt=""/>
