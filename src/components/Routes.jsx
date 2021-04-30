@@ -14,22 +14,21 @@ export function Routes() {
       <Switch>
         <Route path="/eclipse-token-contract-initiated/">
           <ArticlePage
-            title="Astrokitties Token Contract Initiated"
-            date="Posted on February 22, 2021"
+            title="PRESALE LIVE ON DXSALES"
+            date="Posted on april 30, 2021"
             paragraph={[
-              "Today we initiated the development of the unique Astrokitties Token Contract. A carefully planned out process of an experienced team of Crypto-developers.",
-              "We are looking forward to sharing our journey with the community!",
-              "Astrokitties – By the community, for the community!",
+              "The presale of ECLIPSE (ECP) token just went live on dxsales with a hardcap of 400 BNB and a softcap of 100 BNB. LP",
+              "Locked and we (the devs) only hold 1% and 4% locked for 6 months. Check it out –",
+              "https://dxsale.app/app/pages/defipresale?saleID=947&chain=BSC",
             ]}
           />
         </Route>
-        <Route path="/lorem-ipsum/">
+        <Route path="/soon/">
           <ArticlePage
-              title="Lorem Ipsum"
+              title="Astrokitties is coming soon..."
               date="Posted on February 27, 2021"
               paragraph={[
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consectetur, leo ac convallis venenatis, eros odio condimentum ipsum, a ultricies turpis massa eget dui. Donec purus enim, convallis sed quam nec, tincidunt semper magna. Sed ullamcorper, dui quis dapibus rhoncus, magna tortor bibendum ante, ut tincidunt dolor erat sit amet dolor. Fusce purus dui, feugiat id magna ornare, tempor elementum magna.",
-                "Proin eget sem sagittis, gravida ex vitae, porta neque. Proin at auctor felis, et semper dui. Morbi ut mi purus. Pellentesque laoreet lacus ante, vitae suscipit lorem tristique eu.",
+                "Today we initiated the development of the unique Astrokitties Token Contract. A carefully planned out process of an experienced team of Crypto-developers.",
               ]}
             />
         </Route>

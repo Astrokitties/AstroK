@@ -154,19 +154,19 @@ export function Menu({ menuOpen, onclick }) {
       <StyledMenuBlock>
         <StyledMenuTitle>Important links</StyledMenuTitle>
         <StyledMenuItems>
-          <a href="#">
+          <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc48D7A4CeaaE80E5c213A18Dd67B171F28427421">
             <img src={pancakeSvg} alt="Pancakeswap" />
             <span>Buy on Pancakeswap</span>
           </a>
         </StyledMenuItems>
         <StyledMenuItems>
-          <a href="#">
+          <a href="https://charts.bogged.finance/?token=0xc48D7A4CeaaE80E5c213A18Dd67B171F28427421">
             <FontAwesomeIcon icon={faChartLine}/>
             <span>Chart</span>
           </a>
         </StyledMenuItems>
         <StyledMenuItems>
-          <a href="#">
+          <a href="https://bscscan.com/token/0xc48D7A4CeaaE80E5c213A18Dd67B171F28427421">
             <FontAwesomeIcon icon={faChartBar}/>
             <span>BSC Scan</span>
           </a>
@@ -175,19 +175,19 @@ export function Menu({ menuOpen, onclick }) {
       <StyledMenuBlock>
         <StyledMenuTitle>Socials</StyledMenuTitle>
         <StyledMenuItems>
-          <a href="#">
+          <a href="https://t.me/joinchat/S0a9MvFL4IlmNzc8">
             <FontAwesomeIcon icon={faTelegramPlane}/>
             <span>Telegram</span>
           </a>
         </StyledMenuItems>
         <StyledMenuItems>
-          <a href="#">
+          <a href="https://twitter.com/astrokittiesoff">
             <FontAwesomeIcon icon={faTwitter}/>
             <span>Twitter</span>
           </a>
         </StyledMenuItems>
         <StyledMenuItems>
-          <a href="#">
+          <a href="https://reddit.com/r/astrokitties">
             <FontAwesomeIcon icon={faReddit}/>
             <span>Reddit</span>
           </a>
@@ -200,7 +200,7 @@ export function Menu({ menuOpen, onclick }) {
         </StyledMenuItems>
       </StyledMenuBlock>
       <StyledButtonsCont>
-        <a href="#">
+        <a href="https://bscscan.com/token/0xc48D7A4CeaaE80E5c213A18Dd67B171F28427421">
           <StyledButton>
             <img src={bscscan} alt="bscscan-logo"/>
           </StyledButton>

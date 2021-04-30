@@ -35,9 +35,9 @@ export function Releases() {
           imgSrc={contractImg}
         />
         <Article 
-          title="Lorem Ipsum"
+          title="Astrokitties is coming soon..."
           description="Today we initiated the development of the unique Astrokitties Token Contract. A carefully planned out process of an experienced team of Crypto-developers."
-          link="/lorem-ipsum/"
+          link="/soon/"
           imgSrc={crypto}
         />
       </StyledGrid> 

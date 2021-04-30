@@ -64,8 +64,7 @@ export function Header({ onclick }) {
       <StyledNotVisibleXS>
         <a href="#">
           <StyledPancakeButton>
-            <img src={pancakeSvg} alt="Pancakeswap" />
-            BUY ON PANCAKESWAP
+            BUY ON DxSale
           </StyledPancakeButton>
         </a>
       </StyledNotVisibleXS>
