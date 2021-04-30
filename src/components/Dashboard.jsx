@@ -377,7 +377,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Circulating</div>
-                720,093,318,120,919
+                700,000,000,000,000
               </div>
             </div>
             <div className="badge">
@@ -388,7 +388,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Burned</div>
-                  N/A
+                300,000,000,000,000
               </div>
             </div>
             <div className="badge">
