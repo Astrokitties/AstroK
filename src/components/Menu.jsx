@@ -175,7 +175,7 @@ export function Menu({ menuOpen, onclick }) {
       <StyledMenuBlock>
         <StyledMenuTitle>Socials</StyledMenuTitle>
         <StyledMenuItems>
-          <a href="https://t.me/joinchat/S0a9MvFL4IlmNzc8">
+          <a href="https://t.me/astrokitties">
             <FontAwesomeIcon icon={faTelegramPlane}/>
             <span>Telegram</span>
           </a>
