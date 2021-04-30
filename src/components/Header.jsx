@@ -62,7 +62,7 @@ export function Header({ onclick }) {
         <span>Astrokitties</span>
       </StyledLogoContainer>
       <StyledNotVisibleXS>
-        <a href="#">
+        <a href="https://dxsale.app/app/pages/defipresale?saleID=119&chain=BSC">
           <StyledPancakeButton>
             BUY ON DxSale
           </StyledPancakeButton>

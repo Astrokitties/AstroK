@@ -435,7 +435,7 @@ export function Dashboard() {
               <div className="items">
                 <img src={community} alt=""/>
                 <h3>Fair Launch & Community Built</h3>
-                <p>Community driven & fair launch. There is no pre-sale. Dev will add 70% of the token supply to LP on PancakeSwap and participate in the fair launch with everyone else.</p>
+                <p>Community driven & fair launch. There is no pre-sale. Dev will participate in the fair launch with everyone else.</p>
               </div>
               <div className="items">
                 <img src={liquidityPool} alt=""/>
@@ -445,7 +445,7 @@ export function Dashboard() {
               <div className="items">
                 <img src={pumpDump} alt=""/>
                 <h3>Anti Pump-Dump-Exist Whales</h3>
-                <p>Whale cannot exist without redistribution to holders!</p>
+                <p>Whale cannot exit without redistribution of tokens to holders!</p>
               </div>
               <div className="items">
                 <h3>
