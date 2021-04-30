@@ -366,7 +366,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Max Supply</div>
-                1,000,000,000,000,000
+                100,000,000,000,000
               </div>
             </div>
             <div className="badge">
@@ -377,7 +377,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Circulating</div>
-                700,000,000,000,000
+                70,000,000,000,000
               </div>
             </div>
             <div className="badge">
@@ -388,7 +388,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Burned</div>
-                300,000,000,000,000
+                30,000,000,000,000
               </div>
             </div>
             <div className="badge">
