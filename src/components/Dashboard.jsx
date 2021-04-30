@@ -435,7 +435,7 @@ export function Dashboard() {
               <div className="items">
                 <img src={community} alt=""/>
                 <h3>Fair Launch & Community Built</h3>
-                <p>Community driven & fair launch. There is no pre-sale. Dev will participate in the fair launch with everyone else.</p>
+                <p>Community driven & fair launch. There is a pre-sale on DxSale. Dev will participate in the fair launch with everyone else.</p>
               </div>
               <div className="items">
                 <img src={liquidityPool} alt=""/>
