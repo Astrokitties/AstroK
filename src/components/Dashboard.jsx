@@ -527,7 +527,7 @@ export function Dashboard() {
                   <img src={managerNFT} alt="manager nft"/>
                 </a>
                   <p>
-                    Support the community manager and lead of Astrokitties by buying this nft!
+                    Support the community manager of Astrokitties by buying this nft!
                   </p>
                   <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/103650118009987479586759322974484951453890178990420087406057082981838288322561" target="_blank" rel="noreferrer">buy this NFT</a>
               </div>
