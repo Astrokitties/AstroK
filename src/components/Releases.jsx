@@ -31,7 +31,7 @@ export function Releases() {
         <Article 
           title="Astrokitties Token Contract Initiated"
           description="Today we initiated the development of the unique Astrokitties Token Contract. A carefully planned out process of an experienced team of Crypto-developers."
-          link="/eclipse-token-contract-initiated/"
+          link="/astrokitties-token-contract-initiated/"
           imgSrc={contractImg}
         />
         <Article 

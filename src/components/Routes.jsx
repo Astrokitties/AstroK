@@ -12,12 +12,12 @@ export function Routes() {
   return (
     <>
       <Switch>
-        <Route path="/eclipse-token-contract-initiated/">
+        <Route path="/astrokitties-token-contract-initiated/">
           <ArticlePage
             title="PRESALE LIVE ON DXSALES"
             date="Posted on april 30, 2021"
             paragraph={[
-              "The presale of ECLIPSE (ECP) token just went live on dxsales with a hardcap of 400 BNB and a softcap of 100 BNB. LP",
+              "The presale of Astrokitties (ASTK) token just went live on dxsales with a hardcap of 400 BNB and a softcap of 100 BNB. LP",
               "Locked and we (the devs) only hold 1% and 4% locked for 6 months. Check it out –",
               "https://dxsale.app/app/pages/defipresale?saleID=947&chain=BSC",
             ]}
