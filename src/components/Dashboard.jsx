@@ -560,17 +560,13 @@ export function Dashboard() {
             <div className="roadmap">
               <div className="row">
                 <div className="icon complete">
-                  <FontAwesomeIcon icon={faHourglass} />
+                  <FontAwesomeIcon icon={faCheck} />
                 </div>
-                <div className="text">Presale live on DXSales <span className="orange">On progress</span></div>
+                <div className="text">Presale live on DXSales <span className="orange">Done</span></div>
               </div>
               <div className="row">
-                <div className="icon notComplete">
-                </div>
-                <div className="text">Presale sold out </div>
-              </div>
-              <div className="row">
-                <div className="icon notComplete">
+              <div className="icon complete">
+                  <FontAwesomeIcon icon={faCheck} />
                 </div>
                 <div className="text">Listing on PANCAKESWAP </div>
               </div>
@@ -582,7 +578,7 @@ export function Dashboard() {
               <div className="row">
                 <div className="icon notComplete">
                 </div>
-                <div className="text">Reach 1000 holders </div>
+                <div className="text">Reach 10000 holders </div>
               </div>
               <div className="row">
                 <div className="icon notComplete">
@@ -592,7 +588,7 @@ export function Dashboard() {
               <div className="row">
                 <div className="icon notComplete">
                 </div>
-                <div className="text">Reach 3000 holders </div>
+                <div className="text">Reach 30000 holders </div>
               </div>
               <div className="row">
                 <div className="icon notComplete">
@@ -601,7 +597,7 @@ export function Dashboard() {
               </div>
               <div className="row">
                 <div className="icon notComplete" />
-                <div className="text">Reach 5000 holders</div>
+                <div className="text">Reach 50000 holders</div>
               </div>
               <div className="row">
                 <div className="icon notComplete" />
