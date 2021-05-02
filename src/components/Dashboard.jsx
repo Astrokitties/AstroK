@@ -450,7 +450,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Marketcap</div>
-                N/A
+                $261,225
               </div>
             </div>
             <div className="badge">
@@ -461,7 +461,7 @@ export function Dashboard() {
               </div>
               <div className="right">
                 <div>Holders</div>
-                N/A
+                529
               </div>
             </div>
           </div>
