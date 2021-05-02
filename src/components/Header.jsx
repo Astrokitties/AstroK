@@ -64,7 +64,8 @@ export function Header({ onclick }) {
       <StyledNotVisibleXS>
         <a href="https://dxsale.app/app/pages/defipresale?saleID=124&chain=BSC">
           <StyledPancakeButton>
-            BUY ON DxSale
+          <img src={pancakeSvg} alt="Pancakeswap" />
+            Buy on polkaswap
           </StyledPancakeButton>
         </a>
       </StyledNotVisibleXS>
